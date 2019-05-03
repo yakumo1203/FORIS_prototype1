@@ -1,0 +1,3 @@
+rootProject.name = 'FORIS_prototype1'
+
+include ':app'
